@@ -1,0 +1,14 @@
+D:\WiproTraining\bin\Debug\net9.0\WiproTraining.exe
+D:\WiproTraining\bin\Debug\net9.0\WiproTraining.deps.json
+D:\WiproTraining\bin\Debug\net9.0\WiproTraining.runtimeconfig.json
+D:\WiproTraining\bin\Debug\net9.0\WiproTraining.dll
+D:\WiproTraining\bin\Debug\net9.0\WiproTraining.pdb
+D:\WiproTraining\obj\Debug\net9.0\WiproTraining.GeneratedMSBuildEditorConfig.editorconfig
+D:\WiproTraining\obj\Debug\net9.0\WiproTraining.AssemblyInfoInputs.cache
+D:\WiproTraining\obj\Debug\net9.0\WiproTraining.AssemblyInfo.cs
+D:\WiproTraining\obj\Debug\net9.0\WiproTraining.csproj.CoreCompileInputs.cache
+D:\WiproTraining\obj\Debug\net9.0\WiproTraining.dll
+D:\WiproTraining\obj\Debug\net9.0\refint\WiproTraining.dll
+D:\WiproTraining\obj\Debug\net9.0\WiproTraining.pdb
+D:\WiproTraining\obj\Debug\net9.0\WiproTraining.genruntimeconfig.cache
+D:\WiproTraining\obj\Debug\net9.0\ref\WiproTraining.dll
