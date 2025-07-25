@@ -1,0 +1,14 @@
+D:\dictionary\bin\Debug\net9.0\dictionary.exe
+D:\dictionary\bin\Debug\net9.0\dictionary.deps.json
+D:\dictionary\bin\Debug\net9.0\dictionary.runtimeconfig.json
+D:\dictionary\bin\Debug\net9.0\dictionary.dll
+D:\dictionary\bin\Debug\net9.0\dictionary.pdb
+D:\dictionary\obj\Debug\net9.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\dictionary\obj\Debug\net9.0\dictionary.AssemblyInfoInputs.cache
+D:\dictionary\obj\Debug\net9.0\dictionary.AssemblyInfo.cs
+D:\dictionary\obj\Debug\net9.0\dictionary.csproj.CoreCompileInputs.cache
+D:\dictionary\obj\Debug\net9.0\dictionary.dll
+D:\dictionary\obj\Debug\net9.0\refint\dictionary.dll
+D:\dictionary\obj\Debug\net9.0\dictionary.pdb
+D:\dictionary\obj\Debug\net9.0\dictionary.genruntimeconfig.cache
+D:\dictionary\obj\Debug\net9.0\ref\dictionary.dll
