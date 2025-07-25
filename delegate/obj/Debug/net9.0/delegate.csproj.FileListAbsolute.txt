@@ -1,0 +1,15 @@
+D:\delegate\bin\Debug\net9.0\delegate.exe
+D:\delegate\bin\Debug\net9.0\delegate.deps.json
+D:\delegate\bin\Debug\net9.0\delegate.runtimeconfig.json
+D:\delegate\bin\Debug\net9.0\delegate.dll
+D:\delegate\bin\Debug\net9.0\delegate.pdb
+D:\delegate\obj\Debug\net9.0\delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\delegate\obj\Debug\net9.0\delegate.AssemblyInfoInputs.cache
+D:\delegate\obj\Debug\net9.0\delegate.AssemblyInfo.cs
+D:\delegate\obj\Debug\net9.0\delegate.csproj.CoreCompileInputs.cache
+D:\delegate\obj\Debug\net9.0\delegate.sourcelink.json
+D:\delegate\obj\Debug\net9.0\delegate.dll
+D:\delegate\obj\Debug\net9.0\refint\delegate.dll
+D:\delegate\obj\Debug\net9.0\delegate.pdb
+D:\delegate\obj\Debug\net9.0\delegate.genruntimeconfig.cache
+D:\delegate\obj\Debug\net9.0\ref\delegate.dll
