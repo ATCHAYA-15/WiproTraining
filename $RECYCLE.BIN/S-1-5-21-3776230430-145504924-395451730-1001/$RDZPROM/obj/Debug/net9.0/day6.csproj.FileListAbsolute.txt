@@ -1,0 +1,6 @@
+D:\day6\obj\Debug\net9.0\day6.GeneratedMSBuildEditorConfig.editorconfig
+D:\day6\obj\Debug\net9.0\day6.AssemblyInfoInputs.cache
+D:\day6\obj\Debug\net9.0\day6.AssemblyInfo.cs
+D:\day6\obj\Debug\net9.0\day6.csproj.CoreCompileInputs.cache
+D:\day6\obj\Debug\net9.0\day6.dll
+D:\day6\obj\Debug\net9.0\day6.pdb

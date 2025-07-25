@@ -1,0 +1,13 @@
+D:\exception\bin\Debug\net9.0\expection.exe
+D:\exception\bin\Debug\net9.0\expection.deps.json
+D:\exception\bin\Debug\net9.0\expection.runtimeconfig.json
+D:\exception\bin\Debug\net9.0\expection.dll
+D:\exception\obj\Debug\net9.0\expection.GeneratedMSBuildEditorConfig.editorconfig
+D:\exception\obj\Debug\net9.0\expection.AssemblyInfoInputs.cache
+D:\exception\obj\Debug\net9.0\expection.AssemblyInfo.cs
+D:\exception\obj\Debug\net9.0\expection.csproj.CoreCompileInputs.cache
+D:\exception\obj\Debug\net9.0\expection.dll
+D:\exception\obj\Debug\net9.0\refint\expection.dll
+D:\exception\obj\Debug\net9.0\expection.pdb
+D:\exception\obj\Debug\net9.0\expection.genruntimeconfig.cache
+D:\exception\obj\Debug\net9.0\ref\expection.dll
